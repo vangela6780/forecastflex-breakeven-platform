@@ -1,5 +1,3 @@
-# forecastflex-breakeven-platform
-
 # ForecastFlex Breakeven & Profitability Analysis Platform
 
 > A secure multi-tenant web application designed to track financial viability, overhead, and breakeven performance across granular geographic tiers.
